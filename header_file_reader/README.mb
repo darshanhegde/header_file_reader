@@ -1,0 +1,12 @@
+HeaderFileReader
+=====================
+
+This is python utility which provides iterator for reading a text file
+with headers.
+
+It provides a iterator for reading files like /header_file_reader/test-data/movies.dat
+which has header in the first-line and data in the subsequent lines. All of the fields 
+in the file are separated by delimiter ('::' in the example file) and has a qualifier
+("'" in the example file).
+
+This is just a get your hands dirty in git-hub project.
